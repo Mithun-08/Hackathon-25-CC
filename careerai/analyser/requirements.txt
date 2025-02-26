@@ -1,9 +1,0 @@
-streamlit
-pymupdf
-python-docx
-google-generativeai
-VaderSentiment
-random
-re
-fitz
-docx
